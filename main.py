@@ -1,9 +1,3 @@
-## Import chdir function from os module
-from os import chdir
-
-## Change working directory
-chdir(r'C:\Users\COLLABERA TECH\PycharmProjects\boston')
-
 ## Streamlit for creating forms
 import streamlit as st
 
